@@ -29,7 +29,24 @@ function App() {
             >
               Estera Pietkiewicz
             </a>
-            ✨
+            ✨ Hosted on{" "}
+            <a
+              href="https://venerable-lamington-bf4c3d.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+              title="Netlify - dictionary project"
+            >
+              Netlify
+            </a>{" "}
+            <br />
+            <a
+              href="https://www.pexels.com "
+              target="_blank"
+              rel="noreferrer"
+              title="Pexels"
+            >
+              Photos provided by Pexels
+            </a>
           </small>
         </footer>
       </div>
