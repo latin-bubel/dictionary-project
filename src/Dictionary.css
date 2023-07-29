@@ -24,4 +24,5 @@
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 20px;
+  font-family: var(--heading-font-family);
 }
