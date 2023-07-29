@@ -1,3 +1,8 @@
+## Dictionary project
+This project uses SheCodes Dictionary API and Pexels API. \
+The goal of this project was to created a Dictionary with photos of searched word.
+Project hosted on Netlify: https://venerable-lamington-bf4c3d.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
